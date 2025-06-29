@@ -35,5 +35,3 @@
 - 🔐 [Cybersecurity Roadmap](https://heljary.github.io/cybersecurity-roadmap.com/)
 - 💼 [Portfolio](https://hamzaeljary-8fefa.web.app/)
 
----
-🇲🇦 Made with ❤️ in Morocco
