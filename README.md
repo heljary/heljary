@@ -48,4 +48,4 @@
 - 🔐 [Cybersecurity Roadmap](https://heljary.github.io/cybersecurity-roadmap.com/)
 - 💼 [Portfolio](https://hamzaeljary-8fefa.web.app/)
 
-[![<username>'s 42 stats](https://badge.mediaplus.ma/<theme>/heljary)](https://github.com/oakoudad/badge42)
+[![<username>'s 42 stats](https://badge.mediaplus.ma/greenbinary/heljary)](https://github.com/oakoudad/badge42)
