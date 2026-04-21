@@ -1,6 +1,6 @@
 # Hi 👋 I'm Hamza Eljary
 
-🎯 **Full Stack Mobile Developer** | 🔐 **Cybersecurity Enthusiast**  
+🎯 **Software Engineer**  
 📍 1337 Coding School - Essaouira, Morocco
 
 ## 🛠️ Tech Stack & Tools
